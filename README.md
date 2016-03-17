@@ -1,4 +1,4 @@
-Lab 5 - Passport Authentication
+## Lab 5 - Passport Authentication
 
 In this lab you will add a new data-driven page to your in-class MEAN application and control access to your new page.  Make sure your application is running using mLab for your database.
 
